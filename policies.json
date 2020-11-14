@@ -1,0 +1,8 @@
+{
+  "policies": {
+    "AppAutoUpdate": false,
+    "DisableAppUpdate": true,
+    "ExtensionUpdate": true,
+    "DisableSystemAddonUpdate": true
+  }
+}
